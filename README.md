@@ -1,7 +1,7 @@
 Number guessing game for roadmap.sh  
 https://roadmap.sh/projects/number-guessing-game  
 
-Install:
+Install:  
 git clone https://github.com/Broodguy/Number-Guessing-Game  
 cd Number-Guessing-Game  
 mvn clean package  
